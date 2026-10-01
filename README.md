@@ -170,10 +170,4 @@ No es una app gigante ni súper compleja, pero sí deja la base bien hecha para 
 
 ---
 
-## Nota para la entrega
-
-- subir el repo sin `node_modules`
-- incluir este README en la entrega
-- y dejar la bitácora del proyecto también como parte del trabajo
-
 En resumen: este módulo me sirvió para entender mejor cómo organizar el manejo de errores en una API y por qué es importante que todo pase por una misma capa.
